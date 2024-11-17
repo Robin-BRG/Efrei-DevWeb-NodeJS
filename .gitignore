@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Base de données SQLite
+*.db
+
+# Fichiers de log
+*.log
+
+# Variables d'environnement
+.env
